@@ -2,7 +2,7 @@
   <a href="https://github.com/scottpolo"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20engineer;Web%20and%20mobile%20developer;+10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Tech Skills</h2>
 
 <table align="center">
   <tr>
